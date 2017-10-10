@@ -2,7 +2,7 @@
   <div class="head">
     <div class="header">
       <div class="logo">
-        <a href="/">Wang Kai | Web developer</a>
+        <a href="/">00 | Web developer</a>
       </div>
       <div class="nav">
         <a href="">About</a>

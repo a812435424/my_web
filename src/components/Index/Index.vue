@@ -5,7 +5,7 @@
       <div class="about_txt">
         <h5>
           <span>Hello,</span>
-          <em>我是王凯 , 一个web前端工程师</em>
+          <em>我是00 , 一个web前端工程师</em>
           <p>For me design is not about pixel perfect layouts, it’s about solving problems and connecting people. I design with a user centered approach to create thoughtful experiences, & have done so with companies including: Comcast, HBO, Tindall, The Cliffs, & Fatz. I focus on designing interfaces with tools like Sketch, Framer, and Invision, & I don’t shy away from building them either.</p>
           <div class="line">
             <a href="">QQ</a>
